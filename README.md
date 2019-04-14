@@ -28,6 +28,7 @@ please go to the issues page! Feature requests are always welcome and will be
 discussed thoroughly, and then hopefully added to `dep`.
 
 ### License: MIT
+```
 Copyright (c) 2019 ARaspiK
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -47,3 +48,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```

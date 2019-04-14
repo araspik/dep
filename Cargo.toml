@@ -1,0 +1,59 @@
+#   Cargo
+# =========
+
+#  Package
+# =========
+[package]
+
+# Dependency-handling
+name = "dep"
+license = "MIT"
+#license-file = ""
+version = "0.1.0"
+
+# Metadata
+authors = ["ARaspiK <araspik@protonmail.com>"]
+categories = []
+description = "A generic dependency management library"
+documentation = "https://docs.rs/dep"
+# exclude = []
+homepage = "https://github.com/araspik/dep/blob/master/README.md"
+#include = []
+keywords = ["dependencies"]
+publish = true
+readme = "README.md"
+repository = "https://github.com/araspik/dep"
+
+# Building
+#build = "build.rs"
+edition = "2018"
+#links = ""
+#workspace = ""
+
+#  Badges
+# ========
+[badges]
+#appveyor = {repository = "", branch = "", service = ""}
+#circle-ci = {repository = "", branch = ""}
+#gitlab = {repository = "", branch = ""}
+#travis-ci = {repository = "", branch = ""}
+#codecov = {repository = "", branch = "", service = ""}
+#coveralls = {repository = "", branch = "", service = ""}
+#is-it-maintained-issue-resolution = {repository = ""}
+#is-it-maintained-open-issues = {repository = ""}
+maintenance = {status = "actively-developed"}
+
+#  Dependencies
+# ==============
+[dependencies]
+[build-dependencies]
+[dev-dependencies]
+
+#  Features
+# ==========
+[features]
+default = []
+
+#  Workspace
+# ===========
+[workspace]

@@ -27,5 +27,5 @@
 //! please go to the issues page! Feature requests are always welcome and will be
 //! discussed thoroughly, and then hopefully added to `dep`.
 
-pub mod identifier;
+pub mod core;
 pub mod prelude;
